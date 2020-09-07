@@ -1,2 +1,2 @@
-# python_euler
-workshoppython
+# EulerExercises
+exercises
